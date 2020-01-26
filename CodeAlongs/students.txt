@@ -1,0 +1,3 @@
+Jimmy|Fredericton|4.0
+Johnny|Saint John|3.9
+Me|Baia Mare|3.88
